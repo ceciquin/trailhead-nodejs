@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "a CSV to JSON parser",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceciquin/trailhead-nodejs.git"
+  },
+  "author": "Cecilia Quintana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ceciquin/trailhead-nodejs/issues"
+  },
+  "homepage": "https://github.com/ceciquin/trailhead-nodejs#readme",
+  "devDependencies": {
+    "tap": "^14.11.0"
+  }
+}
